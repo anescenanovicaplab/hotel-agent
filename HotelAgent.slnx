@@ -1,0 +1,9 @@
+<Solution>
+  <Folder Name="/backend/">
+    <Project Path="backend/HotelAgent.Agent/HotelAgent.Agent.csproj" />
+    <Project Path="backend/HotelAgent.Api/HotelAgent.Api.csproj" />
+    <Project Path="backend/HotelAgent.Data/HotelAgent.Data.csproj" />
+    <Project Path="backend/HotelAgent.Domain/HotelAgent.Domain.csproj" />
+    <Project Path="backend/HotelAgent.Tests/HotelAgent.Tests.csproj" />
+  </Folder>
+</Solution>
